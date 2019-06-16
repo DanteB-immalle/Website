@@ -14,6 +14,7 @@ p {
 }
 
 a {
+<<<<<<< HEAD
   color: 	#DC3545;
 }
 
@@ -23,6 +24,17 @@ a:hover {
 
 .text-primary {
   color: 	#DC3545 !important;
+=======
+  color: 	#1171ba;
+}
+
+a:hover {
+  color: #096192;
+}
+
+.text-primary {
+  color: 	#1171ba !important;
+>>>>>>> 53286710e0b65d2a33dfc996f0d5c28ff1b416fd
 }
 
 h1,
@@ -71,6 +83,7 @@ section h3.section-subheading {
 }
 
 .btn-primary {
+<<<<<<< HEAD
   background-color: 	#DC3545;
   border-color: 	#DC3545;
 }
@@ -78,16 +91,34 @@ section h3.section-subheading {
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
   background-color: #DC3545 !important;
   border-color: #DC3545 !important;
+=======
+  background-color: 	#1171ba;
+  border-color: 	#1171ba;
+}
+
+.btn-primary:active, .btn-primary:focus, .btn-primary:hover {
+  background-color: #096192 !important;
+  border-color: #096192 !important;
+>>>>>>> 53286710e0b65d2a33dfc996f0d5c28ff1b416fd
   color: white;
 }
 
 .btn-primary:active, .btn-primary:focus {
+<<<<<<< HEAD
   -webkit-box-shadow: 0 0 0 0.2rem rgba(220, 53, 69, 0.5) !important;
   box-shadow: 0 0 0 0.2rem rgba(220, 53, 69, 0.5) !important;
 }
 
 ::selection {
   background: 	#DC3545;
+=======
+  -webkit-box-shadow: 0 0 0 0.2rem rgba(9,97,146, 0.5) !important;
+  box-shadow: 0 0 0 0.2rem rgba(9,97,146, 0.5) !important;
+}
+
+::selection {
+  background: 	#1171ba;
+>>>>>>> 53286710e0b65d2a33dfc996f0d5c28ff1b416fd
   text-shadow: none;
 }
 
@@ -110,17 +141,29 @@ img::-moz-selection {
   text-transform: uppercase;
   color: white;
   border: 0;
+<<<<<<< HEAD
   background-color: 	#DC3545;
+=======
+  background-color: 	#1171ba;
+>>>>>>> 53286710e0b65d2a33dfc996f0d5c28ff1b416fd
   font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
 }
 
 #mainNav .navbar-brand {
+<<<<<<< HEAD
   color: 	#DC3545;
+=======
+  color: 	#1171ba;
+>>>>>>> 53286710e0b65d2a33dfc996f0d5c28ff1b416fd
   font-family: 'Kaushan Script', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
 }
 
 #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
+<<<<<<< HEAD
   color: #DC3545;
+=======
+  color: #096192;
+>>>>>>> 53286710e0b65d2a33dfc996f0d5c28ff1b416fd
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
@@ -133,7 +176,11 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
+<<<<<<< HEAD
   color: 	#DC3545;
+=======
+  color: 	#1171ba;
+>>>>>>> 53286710e0b65d2a33dfc996f0d5c28ff1b416fd
 }
 
 @media (min-width: 992px) {
@@ -166,7 +213,11 @@ img::-moz-selection {
 
 header.masthead {
   text-align: center;
+<<<<<<< HEAD
   color: 	#DC3545;
+=======
+  color: 	#1171ba;
+>>>>>>> 53286710e0b65d2a33dfc996f0d5c28ff1b416fd
   background-image: url("../img/header-bg.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -241,7 +292,11 @@ header.masthead .intro-text .intro-heading {
   -webkit-transition: all ease 0.5s;
   transition: all ease 0.5s;
   opacity: 0;
+<<<<<<< HEAD
   background: rgba(220, 53, 69, 0.9);
+=======
+  background: rgba(9,97,146, 0.9);
+>>>>>>> 53286710e0b65d2a33dfc996f0d5c28ff1b416fd
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
@@ -443,7 +498,11 @@ header.masthead .intro-text .intro-heading {
   color: white;
   border: 7px solid #e9ecef;
   border-radius: 100%;
+<<<<<<< HEAD
   background-color: 	#DC3545;
+=======
+  background-color: 	#1171ba;
+>>>>>>> 53286710e0b65d2a33dfc996f0d5c28ff1b416fd
 }
 
 .timeline > li .timeline-image h4 {
@@ -614,7 +673,11 @@ section#contact .form-group textarea.form-control {
 }
 
 section#contact .form-control:focus {
+<<<<<<< HEAD
   border-color: 	#DC3545;
+=======
+  border-color: 	#1171ba;
+>>>>>>> 53286710e0b65d2a33dfc996f0d5c28ff1b416fd
   -webkit-box-shadow: none;
   box-shadow: none;
 }
@@ -682,5 +745,20 @@ ul.social-buttons li a {
 }
 
 ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
+<<<<<<< HEAD
   background-color: 	#DC3545;
 }
+=======
+  background-color: 	#1171ba;
+}
+
+/*.giticon {
+    height: 130px;
+    width:auto;
+    background-image: url('img/links/github.png');
+  }
+
+  .giticon:hover { 
+    background-image: url('img/links/gitlab.jpg');
+  }
+>>>>>>> 53286710e0b65d2a33dfc996f0d5c28ff1b416fd
